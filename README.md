@@ -53,10 +53,13 @@ A comprehensive guide to learning Magento 2 development concepts from beginner t
   - Object Pool Pattern
 
 ### Product Management
-- [Product Types](./Products/README.md)
-  - Simple, Configurable, Bundle, Grouped, Virtual, Downloadable
-  - Custom product types
+- [Product Types - Complete Guide](./Products/README.md)
+  - Simple, Configurable, Bundle, Grouped, Virtual, Downloadable products
+  - Step-by-step creation guides for each type
+  - When to use each product type
+  - Custom product types development
   - Product attributes and attribute sets
+  - Performance considerations and best practices
 
 ### Performance & Optimization
 - Code compilation and generation

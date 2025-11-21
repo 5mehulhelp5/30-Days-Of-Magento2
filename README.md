@@ -29,17 +29,18 @@ A comprehensive guide to learning Magento 2 development concepts from beginner t
 | 18 | [Cron Jobs](./Cron/README.md) | crontab.xml, Cron groups, Scheduling tasks, Custom cron jobs |
 | 19 | [Logging & Debugging](./Logs/README.md) | Logger interface, Custom log files, Debug mode, Profiling |
 | 20 | [Exception Handling](./Exception/README.md) | Exception types, Custom exceptions, Error handling best practices |
-| 21 | [ACL & Permissions](./README.md) | Access Control Lists, acl.xml, Resource-based permissions, Roles |
+| 21 | [File & Image Upload](./File-Upload/README.md) | File upload forms, Image processing, Media storage, Upload validation |
+| 22 | [ACL & Permissions](./README.md) | Access Control Lists, acl.xml, Resource-based permissions, Roles |
 | **Week 4: Integration & Advanced Topics** | | |
-| 22 | [GraphQL](./GraphQl/README.md) | GraphQL schema, Resolvers, Mutations, Queries, Custom GraphQL endpoints |
-| 23 | [REST & SOAP APIs](./README.md) | Web API configuration, webapi.xml, Authentication, Token-based auth |
-| 24 | [JavaScript & RequireJS](./Js/README.md) | RequireJS modules, Mixins, jQuery widgets, Knockout JS |
-| 25 | [Customer Data (Sections)](./CustomerData/README.md) | Private content, Customer sections, Cache invalidation |
-| 26 | [Payment Integration](./Payments/README.md) | Payment gateway integration, Payment methods, Transaction handling |
-| 27 | [Message Queue (RabbitMQ)](./RabbitMq/README.md) | Queue configuration, Publishers, Consumers, Async operations |
-| 28 | [Indexers](./README.md) | Indexing process, Custom indexers, Mview, Reindex modes |
-| 29 | [Cache Management](./README.md) | Cache types, Cache tags, Full Page Cache, Varnish, Redis |
-| 30 | [Testing & Deployment](./README.md) | Unit tests, Integration tests, Static tests, Deployment strategies |
+| 23 | [GraphQL](./GraphQl/README.md) | GraphQL schema, Resolvers, Mutations, Queries, Custom GraphQL endpoints |
+| 24 | [REST & SOAP APIs](./README.md) | Web API configuration, webapi.xml, Authentication, Token-based auth |
+| 25 | [JavaScript & RequireJS](./Js/README.md) | RequireJS modules, Mixins, jQuery widgets, Knockout JS |
+| 26 | [Customer Data (Sections)](./CustomerData/README.md) | Private content, Customer sections, Cache invalidation |
+| 27 | [Payment Integration](./Payments/README.md) | Payment gateway integration, Payment methods, Transaction handling |
+| 28 | [Message Queue (RabbitMQ)](./RabbitMq/README.md) | Queue configuration, Publishers, Consumers, Async operations |
+| 29 | [Indexers](./README.md) | Indexing process, Custom indexers, Mview, Reindex modes |
+| 30 | [Cache Management](./README.md) | Cache types, Cache tags, Full Page Cache, Varnish, Redis |
+| 31 | [Testing & Deployment](./README.md) | Unit tests, Integration tests, Static tests, Deployment strategies |
 
 ## Additional Important Topics
 
